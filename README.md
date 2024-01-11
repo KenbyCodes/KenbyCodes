@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenbyCodes
 - 👀 I’m interested in CODING, COLLABORATIONS & PROJECTS.
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON, HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on NEW AND GRASSROOTS PROJECTS.
 - 📫 How to reach me SEND ME A DM.
 
